@@ -1,0 +1,27 @@
+{
+  "name": "gramdm",
+  "version": "1.0.0",
+  "description": "An application to check instagram dms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Testing'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blue0Tech/GramDM.git"
+  },
+  "keywords": [
+    "instagram",
+    "dm"
+  ],
+  "author": "Pruthvi Shrikaanth",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Blue0Tech/GramDM/issues"
+  },
+  "homepage": "https://github.com/Blue0Tech/GramDM#readme",
+  "dependencies": {
+    "instagram-private-api": "^1.39.1",
+    "prompt": "^1.0.0"
+  }
+}
