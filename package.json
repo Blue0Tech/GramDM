@@ -23,7 +23,7 @@
   "dependencies": {
     "inquirer": "^7.1.0",
     "instagram-private-api": "^1.39.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "ora": "^4.0.3",
     "prompt": "^1.0.0"
   },
